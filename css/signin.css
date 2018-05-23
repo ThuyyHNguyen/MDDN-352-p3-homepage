@@ -111,3 +111,15 @@ input[type="submit"]:active {
   margin-right: auto;
   max-width: 20%;
 }
+.signuptext{
+  color: white;
+  display: block;
+  font: 12px/1 sans-serif;
+  left: 90px;
+  position: relative;
+  text-decoration: none;
+  top: 5px;
+  transition: color .4s;
+  margin-top: 10px;
+}
+.signuptext:hover { color: #3b3b3b }
